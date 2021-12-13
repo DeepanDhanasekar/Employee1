@@ -10,6 +10,7 @@ public static void main(String[] args) {
 	a[2]=50;
 	a[4]=60;
 	System.out.println(a[2]);
+	System.out.println("janahh");
 
 }
 }
